@@ -20,7 +20,7 @@ The goal is to provide DevOps, data, and compliance teams with a structured deci
 
 - Apply **data classification rules** for Public, Internal, and Confidential information  
 - Follow the **principle of least privilege** in granting access  
-- Identify appropriate **data lifecycle stages** (Create, Use, Share, Archive, Destroy)  
+- Identify appropriate **data lifecycle stages** (Create, Store, Use, Share, Archive, Destroy)  
 - Incorporate **compliance considerations** under Ghana DPA  
 - Provide actionable **next steps** for handling each data access request  
 
